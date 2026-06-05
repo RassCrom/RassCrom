@@ -80,31 +80,31 @@ My work lives at the intersection of **data, design, and story** — from multi-
 
 ## 🗺️ Featured Projects
 
-### [🔥 Ignition Point Analysis — Kazakhstan](https://rasscrom.github.io/tulparmaps-collection)
+### [🔥 Ignition Point Analysis — Kazakhstan](https://tabiatgis.netlify.app/)
 Full pipeline from raw FIRMS data → MODIS/VIIRS multi-sensor processing → interactive geospatial report covering 2001–2024 wildfire patterns across Kazakhstan.
 `MODIS` `VIIRS` `Python` `Interactive report`
 
 ---
 
-### [🏛️ Tigranes the Greatest](https://rasscrom.github.io/tulparmaps-collection)
+### [🏛️ Tigranes the Greatest](https://tigranes-great.netlify.app/)
 Scroll-driven web map narrative of the ancient Armenian Empire under Tigranes II. Combines archival cartographic research with modern web-native storytelling.
 `MapLibre` `Scrollytelling` `Historical cartography` `🥇 Armenia Open Data Contest`
 
 ---
 
-### [🛤️ Silk Road through Centuries](https://rasscrom.github.io/tulparmaps-collection)
+### [🛤️ Silk Road through Centuries](https://rasscrom.github.io/tulparmaps-collection/#map=silk%20road.png)
 Printed map showcasing the historical Silk Road trade network with a focus on Central Asian routes. Hand-crafted in ArcGIS Pro + Illustrator.
 `ArcGIS Pro` `Adobe Illustrator` `Print cartography` `🥇 British Cartographic Society`
 
 ---
 
-### [🏙️ Building Ages of Astana](https://rasscrom.github.io/tulparmaps-collection)
+### [🏙️ Building Ages of Astana](https://kbh-nu.vercel.app/)
 Interactive web map of Astana's urban fabric — construction year, building height, surface temperature, and urban greenness in a single explorable interface.
 `MapLibre GL JS` `PMTiles` `Tippecanoe` `GitHub Pages`
 
 ---
 
-### [🌍 Heat Stress in Vienna *(MSc Thesis)*](https://rasscrom.github.io/tulparmaps-collection)
+### [🌍 Heat Stress in Vienna *(MSc Thesis)*](https://rasscrom.github.io/tulparmaps-collection) WIP
 Designing and evaluating an interactive map-based narrative of urban heat stress. Research focus: measuring user engagement in scroll-driven cartographic storytelling across European cities.
 `Scrollytelling` `UX research` `Urban climate` `TU Munich`
 
@@ -124,8 +124,6 @@ Designing and evaluating an interactive map-based narrative of urban heat stress
 
 <div align="center">
 
-**Open to GIS engineering, web mapping, and cartography roles · Vienna / Munich / Remote**
-
-*Kazakhstan 🇰🇿 → USA 🇺🇸 → Germany 🇩🇪 → wherever the next map takes me*
+**Open to GIS engineering, web mapping, and cartography roles · Vienna / Germany / Remote**
 
 </div>
