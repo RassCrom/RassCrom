@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karasu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/karasu)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alikhan.beisenbay490@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Vienna_/_Munich-EU-lightgrey?style=flat-square)](https://en.wikipedia.org/wiki/Vienna)
+[![Instagram](https://img.shields.io/badge/Instagram-karasu-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tulparmaps)
 
 </div>
 
@@ -29,16 +30,18 @@ My work lives at the intersection of **data, design, and story** — from multi-
 |---|---|---|
 | 📅 2026 | **GeoHipster Calendar** — Featured | *Earth on Fire* |
 | 🥇 2025 | **British Cartographic Society** — Winner | *Silk Road through Centuries* |
-| 🥇 2025 | **Armenia Open Data Contest** — Winner | *Tigranes the Greatest* |
+| 🥇 2025 | **Armenia Open Data Contest 25** — Winner | *Tigranes the Greatest* |
+| 🥇 2024 | **DIRCON Almaty GIS Day 2024 Map Gallery** — Winner | *Who comes third in Akmola* |
+| 🥉 2024 | **Armenia Open Data Contest 24** — 3rd place | *Armenia energy profile* |
 
 ---
 
 ## 🔭 Currently
 
 - 📝 **MSc Thesis** — *Evaluating User Engagement in Interactive Map-Based Narratives of Heat Stress Across European Cities* (TU Munich / TU Wien)
-- 🗺️ Growing [tulparmaps](https://rasscrom.github.io/tulparmaps-collection) — a personal collection of interactive map stories
+- 🗺️ Growing [tulparmaps](https://www.instagram.com/tulparmaps) – an instagram account dedicated to Maps and all cartographic related
 - ⚛️ Deepening React skills for production-grade web mapping applications
-- 🇩🇪 Learning German (A2 → working toward B1)
+- 🇩🇪 Learning German (A1 → working toward A2)
 
 ---
 
